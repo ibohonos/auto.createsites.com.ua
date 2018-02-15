@@ -14,7 +14,7 @@
                         </div>
                     @endif
 
-                    You are logged in!
+                    Hello! Test <strong>laravel 5.6!</strong>
                 </div>
             </div>
         </div>
